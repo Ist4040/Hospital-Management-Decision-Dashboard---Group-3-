@@ -1,0 +1,11 @@
+# Ignore raw Excel files
+*.xlsx
+*.xls
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
