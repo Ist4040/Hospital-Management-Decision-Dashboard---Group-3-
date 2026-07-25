@@ -1,1 +1,152 @@
 
+bed_id,ward_name,bed_type,is_occupied
+BED-501,General Ward,Standard,1
+BED-502,General Ward,Standard,0
+BED-503,General Ward,Standard,1
+BED-504,General Ward,Standard,1
+BED-505,General Ward,Standard,1
+BED-506,General Ward,Standard,1
+BED-507,General Ward,Standard,0
+BED-508,General Ward,Standard,0
+BED-509,General Ward,Standard,1
+BED-510,General Ward,Standard,0
+BED-511,General Ward,Standard,1
+BED-512,General Ward,Standard,0
+BED-513,General Ward,Standard,1
+BED-514,General Ward,Standard,0
+BED-515,General Ward,Standard,1
+BED-516,General Ward,Standard,1
+BED-517,General Ward,Standard,1
+BED-518,General Ward,Standard,0
+BED-519,General Ward,Standard,1
+BED-520,General Ward,Standard,1
+BED-521,General Ward,Standard,1
+BED-522,General Ward,Standard,1
+BED-523,General Ward,Standard,1
+BED-524,General Ward,Standard,0
+BED-525,General Ward,Standard,0
+BED-526,General Ward,Standard,0
+BED-527,General Ward,Standard,0
+BED-528,General Ward,Standard,1
+BED-529,General Ward,Standard,1
+BED-530,General Ward,Standard,1
+BED-531,General Ward,Standard,1
+BED-532,General Ward,Standard,0
+BED-533,General Ward,Standard,0
+BED-534,General Ward,Standard,0
+BED-535,General Ward,Standard,1
+BED-536,General Ward,Standard,1
+BED-537,General Ward,Standard,1
+BED-538,General Ward,Standard,0
+BED-539,General Ward,Standard,0
+BED-540,General Ward,Standard,0
+BED-541,General Ward,Standard,0
+BED-542,General Ward,Standard,0
+BED-543,General Ward,Standard,1
+BED-544,General Ward,Standard,0
+BED-545,General Ward,Standard,1
+BED-546,General Ward,Standard,0
+BED-547,General Ward,Standard,0
+BED-548,General Ward,Standard,1
+BED-549,General Ward,Standard,0
+BED-550,General Ward,Standard,0
+BED-551,General Ward,Standard,1
+BED-552,General Ward,Standard,0
+BED-553,General Ward,Standard,1
+BED-554,General Ward,Standard,1
+BED-555,General Ward,Standard,1
+BED-556,General Ward,Standard,0
+BED-557,General Ward,Standard,0
+BED-558,General Ward,Standard,1
+BED-559,General Ward,Standard,1
+BED-560,General Ward,Standard,1
+BED-561,General Ward,Standard,0
+BED-562,General Ward,Standard,0
+BED-563,General Ward,Standard,1
+BED-564,General Ward,Standard,1
+BED-565,General Ward,Standard,1
+BED-566,General Ward,Standard,0
+BED-567,General Ward,Standard,1
+BED-568,General Ward,Standard,0
+BED-569,General Ward,Standard,0
+BED-570,General Ward,Standard,0
+BED-571,General Ward,Standard,1
+BED-572,General Ward,Standard,1
+BED-573,General Ward,Standard,1
+BED-574,General Ward,Standard,1
+BED-575,General Ward,Standard,0
+BED-576,General Ward,Standard,1
+BED-577,General Ward,Standard,0
+BED-578,General Ward,Standard,1
+BED-579,General Ward,Standard,0
+BED-580,General Ward,Standard,1
+BED-581,ICU,ICU-Bed,1
+BED-582,ICU,ICU-Bed,1
+BED-583,ICU,ICU-Bed,1
+BED-584,ICU,ICU-Bed,1
+BED-585,ICU,ICU-Bed,0
+BED-586,ICU,ICU-Bed,0
+BED-587,ICU,ICU-Bed,0
+BED-588,ICU,ICU-Bed,1
+BED-589,ICU,ICU-Bed,1
+BED-590,ICU,ICU-Bed,1
+BED-591,ICU,ICU-Bed,1
+BED-592,ICU,ICU-Bed,1
+BED-593,ICU,ICU-Bed,1
+BED-594,ICU,ICU-Bed,1
+BED-595,ICU,ICU-Bed,1
+BED-596,ICU,ICU-Bed,1
+BED-597,ICU,ICU-Bed,1
+BED-598,ICU,ICU-Bed,1
+BED-599,ICU,ICU-Bed,0
+BED-600,ICU,ICU-Bed,0
+BED-601,ICU,ICU-Bed,1
+BED-602,ICU,ICU-Bed,1
+BED-603,ICU,ICU-Bed,1
+BED-604,ICU,ICU-Bed,0
+BED-605,ICU,ICU-Bed,1
+BED-606,HDU,HDU-Bed,0
+BED-607,HDU,HDU-Bed,0
+BED-608,HDU,HDU-Bed,0
+BED-609,HDU,HDU-Bed,0
+BED-610,HDU,HDU-Bed,1
+BED-611,HDU,HDU-Bed,1
+BED-612,HDU,HDU-Bed,1
+BED-613,HDU,HDU-Bed,1
+BED-614,HDU,HDU-Bed,1
+BED-615,HDU,HDU-Bed,0
+BED-616,HDU,HDU-Bed,0
+BED-617,HDU,HDU-Bed,1
+BED-618,HDU,HDU-Bed,0
+BED-619,HDU,HDU-Bed,0
+BED-620,HDU,HDU-Bed,0
+BED-621,HDU,HDU-Bed,0
+BED-622,HDU,HDU-Bed,1
+BED-623,HDU,HDU-Bed,1
+BED-624,HDU,HDU-Bed,0
+BED-625,HDU,HDU-Bed,1
+BED-626,Emergency Room,ER-Stretcher,0
+BED-627,Emergency Room,ER-Stretcher,0
+BED-628,Emergency Room,ER-Stretcher,1
+BED-629,Emergency Room,ER-Stretcher,0
+BED-630,Emergency Room,ER-Stretcher,0
+BED-631,Emergency Room,ER-Stretcher,1
+BED-632,Emergency Room,ER-Stretcher,0
+BED-633,Emergency Room,ER-Stretcher,0
+BED-634,Emergency Room,ER-Stretcher,1
+BED-635,Emergency Room,ER-Stretcher,1
+BED-636,Emergency Room,ER-Stretcher,0
+BED-637,Emergency Room,ER-Stretcher,0
+BED-638,Emergency Room,ER-Stretcher,0
+BED-639,Emergency Room,ER-Stretcher,0
+BED-640,Emergency Room,ER-Stretcher,0
+BED-641,Emergency Room,ER-Stretcher,0
+BED-642,Emergency Room,ER-Stretcher,1
+BED-643,Emergency Room,ER-Stretcher,0
+BED-644,Emergency Room,ER-Stretcher,0
+BED-645,Emergency Room,ER-Stretcher,0
+BED-646,Emergency Room,ER-Stretcher,0
+BED-647,Emergency Room,ER-Stretcher,1
+BED-648,Emergency Room,ER-Stretcher,0
+BED-649,Emergency Room,ER-Stretcher,1
+BED-650,Emergency Room,ER-Stretcher,1
